@@ -1,0 +1,7 @@
+@inproceedings{wu2025alignmmbench,
+  title={Alignmmbench: Evaluating chinese multimodal alignment in large vision-language models},
+  author={Wu, Yuhang and Yu, Wenmeng and Cheng, Yean and Wang, Yan and Zhang, Xiaohan and Xu, Jiazheng and Ding, Ming and Dong, Yuxiao},
+  booktitle={Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={6541--6558},
+  year={2025}
+}
