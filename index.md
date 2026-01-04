@@ -66,8 +66,3 @@ My current research interests lie in **image generation** and **personalized AI 
 
   </div>
 </section>
-
-## Miscellaneous
-Before research, I trained as a competitive programming contestant—earning a silver medal at the Chinese National Olympiad in Informatics (CNOI) and a gold medal in the International Collegiate Programming Contest (ICPC). The rigor of OI shaped how I think about problems and remains one of the most valuable parts of my education. 
-
-I also enjoy traveling, especially alongside academic conferences; if we’re at the same venue, feel free to reach out to chat, grab a coffee, or team up to explore the host city!
