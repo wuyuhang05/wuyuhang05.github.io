@@ -16,11 +16,11 @@ My current research interests lie in **image generation** and **personalized AI 
 - **[Jul. 2025]** I will join Bytedance Seed as a research intern.
 - **[May. 2025]** [AlignMMBench](https://alignmmbench.github.io/) is accepted to ACL 2025!
 
-## Honors
+## Honors & Awards
 * **[2025]** National Scholarship at Tsinghua University
-* **[2025]** Academic Excellence Scholarship of Tsinghua University
-* **[2024]** Comprehensive Excellence Scholarship of Tsinghua University
-* **[2023]** Academic Excellence Scholarship of Tsinghua University
+* **[2024 & 2025]** Comprehensive Excellence Scholarship of Tsinghua University
+* **[2023 & 2025]** Academic Excellence Scholarship of Tsinghua University
+* **[2021]** Silver Medal of the 38th National Olympiad in Informatics (NOI 2021). 
 
 ## Education
 
