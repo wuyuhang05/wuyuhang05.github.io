@@ -9,3 +9,13 @@ main:
     bibtex: ./assets/bib/alignmmbench25.txt
     image: ./assets/img/alignmmbench.png
     notes: Poster Presentation
+
+  - title: "Unleashing Spatial Reasoning in Multimodal Large Language Models via Textual Representation Guided Reasoning"
+    authors: Jiacheng Hua, Yishu Yin, <strong>Yuhang Wu</strong>, Tai Wang, Yifei Huang, Miao Liu
+    conference_short: ACL26
+    conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2603.23404
+    code: https://trace-reasoning.github.io/
+    bibtex: ./assets/bib/trace26.txt
+    image: ./assets/img/trace-teaser.png
+    notes: Oral Presentation

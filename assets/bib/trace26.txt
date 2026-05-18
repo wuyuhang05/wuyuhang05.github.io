@@ -1,0 +1,10 @@
+@inproceedings{hua-etal-2026-unleashing,
+    title     = {Unleashing Spatial Reasoning in Multimodal Large Language Models via Textual Representation Guided Reasoning},
+    author    = {Hua, Jiacheng and Yin, Yishu and Wu, Yuhang and Wang, Tai and Huang, Yifei and Liu, Miao},
+    booktitle = {Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+    month     = jul,
+    year      = {2026},
+    address   = {San Diego, California, USA},
+    publisher = {Association for Computational Linguistics},
+    note      = {To appear}
+  }
