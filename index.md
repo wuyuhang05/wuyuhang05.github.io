@@ -4,43 +4,38 @@ layout: homepage
 
 ## About Me
 
-I am a senior undergraduate at Tsinghua University, majoring in Information and Computing Science. 
 
-I am currently a **pre-PhD researcher** at the [MEOW Lab](https://collegeai.tsinghua.edu.cn/en/Research/Research_Groups/MEOW_LAB_Modeling_Egocentric_Omniscient_Worlds_.htm), College of AI, Tsinghua University, advised by [Prof. Miao Liu](https://aptx4869lm.github.io/). I will formally enroll as a PhD student in **2026**.
-Since Summer 2025, I have been a research intern at **Bytedance Seed**. From Winter 2024 to Summer 2025, I internd at the [THUKEG](https://keg.cs.tsinghua.edu.cn/home), advised by [Prof. Yuxiao Dong](https://keg.cs.tsinghua.edu.cn/yuxiao/), and at Zhipu AI.
+I am a first-year PhD student at the College of AI, Tsinghua University, and a member of the [MEOW Lab](https://collegeai.tsinghua.edu.cn/en/Research/Research_Groups/MEOW_LAB_Modeling_Egocentric_Omniscient_Worlds_.htm), advised by [Prof. Miao Liu](https://aptx4869lm.github.io/). I received my bachelor's degree in Information and Computing Science from Zhili College, Tsinghua University.
 
-My current research interests lie in **image generation** and **personalized AI systems**. 
+From Summer 2025 to July 2026, I was a research intern at **ByteDance Seed**. From Winter 2024 to Summer 2025, I internd at the [THUKEG](https://keg.cs.tsinghua.edu.cn/home), advised by [Prof. Yuxiao Dong](https://keg.cs.tsinghua.edu.cn/yuxiao/), and at Zhipu AI.
+
+My current research interests lie in **multimodal intelligence**, **image generation**, and **personalized AI systems**.
 
 ## News
 
+- **[Jun. 2026]** [PIPBench](https://wuyuhang05.github.io/PIPBench/) is accepted to ECCV 2026!
 - **[Jul. 2025]** I will join Bytedance Seed as a research intern.
 - **[May. 2025]** [AlignMMBench](https://alignmmbench.github.io/) is accepted to ACL 2025!
 
 ## Honors & Awards
+* **[2026]** Tsinghua University Outstanding Graduate (Top 4%)
+* **[2026]** Honors Degree, Zhili College, Tsinghua University
 * **[2025]** National Scholarship at Tsinghua University
-* **[2024 & 2025]** Comprehensive Excellence Scholarship of Tsinghua University
-* **[2023 & 2025]** Academic Excellence Scholarship of Tsinghua University
-* **[2021]** Silver Medal of the 38th National Olympiad in Informatics (NOI 2021). 
+* **[2024 & 2025]** Tsinghua University Comprehensive Excellence Scholarship
+* **[2023 & 2025]** Tsinghua University Academic Excellence Scholarship
+* **[2021]** Silver Medal, 38th National Olympiad in Informatics (NOI 2021)
+
 
 ## Education
 
+<div style="display:flex;justify-content:space-between;align-items:baseline;gap:1rem;margin:.6rem 0;"> <div> <strong>Ph.D. Student in Artificial Intelligence</strong><br> <span style="opacity:.85;">College of AI, Tsinghua University</span> </div> <div style="text-align:right;min-width:13ch;white-space:nowrap;font-size:.95em;opacity:.85;"> 2026–Present </div> </div>
 
-<div style="display:flex;justify-content:space-between;align-items:baseline;gap:1rem;margin:.6rem 0;">
-  <div>
-    <strong>B.S. in Information and Computing Science</strong><br>
-    <span style="opacity:.85;">Zhili College, Tsinghua University</span>
-  </div>
-  <div style="text-align:right;min-width:13ch;white-space:nowrap;font-size:.95em;opacity:.85;">
-    2022–2026 <em>(expected)</em>
-  </div>
-</div>
+<div style="display:flex;justify-content:flex-start;align-items:center;gap:.8rem;margin:.1rem 0 .8rem 0;font-size:.95em;opacity:.9;"> <span style="opacity:.5;">•</span> <span><strong>Advisor</strong>: Prof. Miao Liu</span> <span style="opacity:.5;">•</span> <span>MEOW Lab</span> </div>
 
-<div style="display:flex;justify-content:flex-start;align-items:center;gap:.8rem;margin:.1rem 0 .5rem 0;font-size:.95em;opacity:.9;">
-    <span style="opacity:.5;">•</span>
-  <span><strong>GPA</strong>: 3.91/4.00</span>
-  <span style="opacity:.5;">•</span>
-  <span><strong>Rank</strong>: 4/34</span>
-</div>
+<div style="display:flex;justify-content:space-between;align-items:baseline;gap:1rem;margin:.6rem 0;"> <div> <strong>B.S. in Information and Computing Science</strong><br> <span style="opacity:.85;">Zhili College, Tsinghua University</span> </div> <div style="text-align:right;min-width:13ch;white-space:nowrap;font-size:.95em;opacity:.85;"> 2022–2026 </div> </div>
+
+<div style="display:flex;justify-content:flex-start;align-items:center;gap:.8rem;margin:.1rem 0 .5rem 0;font-size:.95em;opacity:.9;"> <span style="opacity:.5;">•</span> <span><strong>GPA</strong>: 3.91/4.00</span> <span style="opacity:.5;">•</span> <span><strong>Rank</strong>: 4/34</span> </div>
+
 <br>
 {% include_relative _includes/publications.md %}
 
@@ -49,7 +44,7 @@ My current research interests lie in **image generation** and **personalized AI 
   <div style="display:grid;grid-template-columns:minmax(12ch,auto) 1fr auto;gap:.4rem .75rem;align-items:start;row-gap:1rem;">
 
     <!-- Bytedance -->
-    <div>2025/08 — Present</div>
+    <div>2025/08 — 2026/07</div>
     <div>
       <strong>Bytedance Seed</strong><br>
       <span style="opacity:.9;">Research Intern, Image Generation</span>

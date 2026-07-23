@@ -1,5 +1,15 @@
 main:
 
+  - title: "PIPBench: A Profile-Inclusive Framework for Personalized Image Generation Evaluation"
+    authors: <strong>Yuhang Wu</strong>, Shuxiang Zhang, WEE HIAN CHING, Chi Zhang, Miao Liu
+    conference_short: ECCV26
+    conference: The 19th European Conference on Computer Vision <strong>(ECCV)</strong>, 2026.
+    pdf: https://arxiv.org/pdf/2607.06440
+    code: https://wuyuhang05.github.io/PIPBench/
+    bibtex: ./assets/bib/pipbench26.txt
+    image: ./assets/img/pipbench-teaser.png
+    notes: Poster Presentation
+
   - title: "AlignMMBench: Evaluating Chinese Multimodal Alignment in Large Vision-Language Models"
     authors: <strong>Yuhang Wu<sup>*</sup></strong>, Wenmeng Yu<sup>*</sup>, Yean Cheng, Yan Wang, Xiaohan Zhang, Jiazheng Xu, Ming Ding, Yuxiao Dong
     conference_short: ACL25

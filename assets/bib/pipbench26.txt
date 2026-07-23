@@ -1,0 +1,9 @@
+@misc{wu2026pipbenchprofileinclusiveframeworkpersonalized,
+      title={PIPBench: A Profile-Inclusive Framework for Personalized Image Generation Evaluation}, 
+      author={Yuhang Wu and Shuxiang Zhang and Wee Hian Ching and Chi Zhang and Miao Liu},
+      year={2026},
+      eprint={2607.06440},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2607.06440}, 
+}
