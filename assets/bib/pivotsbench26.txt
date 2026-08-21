@@ -1,0 +1,6 @@
+@article{zhang2026pivotsbench,
+  title={PIVOTSBench: Evaluating Fine-Grained Interpersonal Relationship Reasoning in Multimodal Large Language Models},
+  author={Zhang, Shuxiang and Yin, Yiting and Song, Wenxuan and Wu, Yuhang and Liu, Miao},
+  journal={arXiv preprint arXiv:2606.23092},
+  year={2026}
+}

@@ -10,22 +10,43 @@ main:
     image: ./assets/img/pipbench-teaser.png
     notes: Poster Presentation
 
-  - title: "AlignMMBench: Evaluating Chinese Multimodal Alignment in Large Vision-Language Models"
-    authors: <strong>Yuhang Wu<sup>*</sup></strong>, Wenmeng Yu<sup>*</sup>, Yean Cheng, Yan Wang, Xiaohan Zhang, Jiazheng Xu, Ming Ding, Yuxiao Dong
-    conference_short: ACL25
-    conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2025.
-    pdf: https://arxiv.org/pdf/2406.09295
-    code: https://github.com/THUDM/AlignMMBench
-    bibtex: ./assets/bib/alignmmbench25.txt
-    image: ./assets/img/alignmmbench.png
-    notes: Poster Presentation
+  - title: "MeetingToM: Evaluating Multimodal LLMs on Theory-of-Mind Reasoning in Multi-Party Meetings"
+    authors: Ziyi Wang<sup>*</sup>, <strong>Yuhang Wu<sup>*</sup></strong>, Dongxu Piao, Xingyu Liu, Tianhui Zhou, Miao Liu
+    author_notes: "<sup>*</sup> Equal Contribution"
+    conference_short: EMNLP26
+    conference: The 2026 Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2026, Main Conference.
+    pdf: https://arxiv.org/pdf/2607.19235
+    code: https://github.com/oliviaziyi/MeetingToM
+    bibtex: ./assets/bib/meetingtom26.txt
+    image: ./assets/img/meetingtom-teaser.png
+  
+  - title: "PIVOTSBench: Evaluating Fine-Grained Interpersonal Relationship Reasoning in Multimodal Large Language Models"
+    authors: Shuxiang Zhang, Yiting Yin, Wenxuan Song, <strong>Yuhang Wu<sup>†</sup></strong>, Miao Liu
+    author_notes: "<sup>†</sup> Project Lead"
+    conference_short: EMNLP26
+    conference: The 2026 Conference on Empirical Methods in Natural Language Processing <strong>(EMNLP)</strong>, 2026, Main Conference.
+    pdf: https://arxiv.org/pdf/2606.23092
+    code: https://flynnzhangsx.github.io/PIVOTSBench/
+    bibtex: ./assets/bib/pivotsbench26.txt
+    image: ./assets/img/pivotsbench-teaser.png
 
   - title: "Unleashing Spatial Reasoning in Multimodal Large Language Models via Textual Representation Guided Reasoning"
     authors: Jiacheng Hua, Yishu Yin, <strong>Yuhang Wu</strong>, Tai Wang, Yifei Huang, Miao Liu
     conference_short: ACL26
-    conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2026.
+    conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2026, Main Conference.
     pdf: https://arxiv.org/pdf/2603.23404
     code: https://trace-reasoning.github.io/
     bibtex: ./assets/bib/trace26.txt
     image: ./assets/img/trace-teaser.png
     notes: Oral Presentation
+
+  - title: "AlignMMBench: Evaluating Chinese Multimodal Alignment in Large Vision-Language Models"
+    authors: <strong>Yuhang Wu<sup>*</sup></strong>, Wenmeng Yu<sup>*</sup>, Yean Cheng, Yan Wang, Xiaohan Zhang, Jiazheng Xu, Ming Ding, Yuxiao Dong
+    author_notes: "<sup>*</sup> Equal Contribution"
+    conference_short: ACL25
+    conference: Annual Meeting of the Association for Computational Linguistics <strong>(ACL)</strong>, 2025, Main Conference.
+    pdf: https://arxiv.org/pdf/2406.09295
+    code: https://github.com/THUDM/AlignMMBench
+    bibtex: ./assets/bib/alignmmbench25.txt
+    image: ./assets/img/alignmmbench.png
+    notes: Poster Presentation

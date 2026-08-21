@@ -18,6 +18,11 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
       <div class="title"><a href="{{ link.pdf }}">{{ link.title }}</a></div>
       <div class="author">{{ link.authors }}</div>
+      {% if link.author_notes %}
+      <div class="author-notes" style="font-size: 12px; color: #666; margin-top: 1px;">
+        {{ link.author_notes }}
+      </div>
+      {% endif %}
       <div class="periodical"><em>{{ link.conference }}</em>
       </div>
     <div class="links">

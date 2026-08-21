@@ -1,0 +1,6 @@
+@article{wang2026meetingtom,
+  title={MeetingToM: Evaluating Multimodal LLMs on Theory-of-Mind Reasoning in Multi-Party Meetings},
+  author={Wang, Ziyi and Wu, Yuhang and Piao, Dongxu and Liu, Xingyu and Zhou, Tianhui and Liu, Miao},
+  journal={arXiv preprint arXiv:2607.19235},
+  year={2026}
+}

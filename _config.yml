@@ -1,14 +1,14 @@
 # Basic Information 
 title: Yuhang Wu
-position: Undergraduate Student
+position: Ph.D. Student
 affiliation: Tsinghua University
 email: yh-wu22@mails.tsinghua.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Yuhang Wu, Wu Yuhang, 吴雨航, Tsinghua University, Artificial Intelligence, Multimodal Large Language Models, Multimodal Learning, Computer Vision, Personalized Image Generation, Embodied AI
+description: Yuhang Wu is a Ph.D. student in College of AI, Tsinghua University. His research focuses on multimodal large language models, computer vision, personalized generation, and embodied intelligence.
+canonical: https://wuyuhang05.github.io/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
