@@ -19,6 +19,7 @@ main:
     code: https://github.com/oliviaziyi/MeetingToM
     bibtex: ./assets/bib/meetingtom26.txt
     image: ./assets/img/meetingtom-teaser.png
+    notes: Oral Presentation
   
   - title: "PIVOTSBench: Evaluating Fine-Grained Interpersonal Relationship Reasoning in Multimodal Large Language Models"
     authors: Shuxiang Zhang, Yiting Yin, Wenxuan Song, <strong>Yuhang Wu<sup>†</sup></strong>, Miao Liu
@@ -29,6 +30,7 @@ main:
     code: https://flynnzhangsx.github.io/PIVOTSBench/
     bibtex: ./assets/bib/pivotsbench26.txt
     image: ./assets/img/pivotsbench-teaser.png
+    notes: Poster Presentation
 
   - title: "Unleashing Spatial Reasoning in Multimodal Large Language Models via Textual Representation Guided Reasoning"
     authors: Jiacheng Hua, Yishu Yin, <strong>Yuhang Wu</strong>, Tai Wang, Yifei Huang, Miao Liu

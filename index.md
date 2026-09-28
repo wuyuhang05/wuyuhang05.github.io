@@ -13,7 +13,7 @@ My current research interests lie in **multimodal intelligence**, **image genera
 
 ## News
 
-- **[Aug. 2026]** Two paper are accepted to EMNLP 26 main track!
+- **[Aug. 2026]** Two papers (1 Oral + 1 Poster) are accepted to EMNLP 26!
 - **[Jun. 2026]** [PIPBench](https://wuyuhang05.github.io/PIPBench/) is accepted to ECCV 2026!
 - **[Jul. 2025]** I will join Bytedance Seed as a research intern.
 - **[May. 2025]** [AlignMMBench](https://alignmmbench.github.io/) is accepted to ACL 2025!
